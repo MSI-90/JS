@@ -1,0 +1,79 @@
+/*My Styles*/
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#osn {
+	width: 100%;
+	margin-top: 10%;
+}
+
+#block {
+	background:url('../images/image.jpg') no-repeat;
+	width: 465px; 
+	height: 604px; 
+	margin: 0 auto; 
+	text-align: center; 
+}
+
+#block p {
+	margin: 0;
+	color: brown;
+	font-size: 155%;
+	font-weight: bold;
+	font-family: "Prestige Elite Std", Arial, "Times New Roman";
+}
+
+#data_rojd {
+	border: 2px dotted #1be4bc;
+	color: #538444; 
+	width: 400px; 
+	height: 47px; 
+	opacity: 0.65; 
+	font-size: 200%; 
+	font-family: Arial, "Times New Roman";
+	font-weight: bold; 
+	text-align: center;
+}
+
+#submit {
+	color: #120df2;
+	width: 400px;
+	height: 25px;
+	opacity: 0.65;
+	font-weight: bold; 
+	margin-bottom: 25px;
+}
+
+#block .hidden_options{
+	border: 2px dotted #1be4bc;
+	color: #538444; 
+	width: 400px; 
+	height: 47px; 
+	opacity: 0.65; 
+	font-size: 200%; 
+	font-family: Arial, "Times New Roman";
+	font-weight: bold; 
+	text-align: center;
+	margin: 5px 0;
+}
+
+.inner {
+	border: 2px dotted #1be4bc;
+	color: #000; 
+	width: 400px; 
+	height: 47px; 
+	opacity: 0.65; 
+	font-size: 150%; 
+	font-family: Arial, "Times New Roman";
+	font-weight: bold; 
+	text-align: center;
+	margin-left: 30px;
+	margin-top: 22px;
+}
+
+.inner span {
+	background-color: #d2ff00;
+}
